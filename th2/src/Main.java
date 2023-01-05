@@ -7,7 +7,7 @@ public class Main {
         System.out.println("Nhập vào số tiền gửi:");
         double money = scanner.nextDouble();
 
-        System.out.println("Nhập vào số tháng:");
+        System.out.println("Nhập vào số tháng gửi:");
         int month = scanner.nextInt();
 
         System.out.println("Nhập vào tỉ lệ lãi suất:");
